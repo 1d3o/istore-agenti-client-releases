@@ -1,0 +1,1 @@
+# Istore Client - releases repository
